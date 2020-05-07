@@ -1,7 +1,7 @@
 ## WordSuggestionEngine
-This is a project that I did for my Intro to Data Engineering class.The goal of this project was to demonstrate concepts learned in the class by building a simple word recomendation engine. The steps of the project are described below.<br>
+This is a project that I did for my Intro to Data Engineering class. The goal of this project was to demonstrate concepts learned in the class by building a simple word recommendation engine. The process of my program is described below.<br>
 
-### Steps
+### Process
 * Determine the confidence and support of each word pair (bigram)
 * Ask user for word (as if they were typing it)
 * Build a List of possible "next words" at least 3 words in length
@@ -12,4 +12,4 @@ This is a project that I did for my Intro to Data Engineering class.The goal of 
 * Print out the list with each word on its own line
 
 ## Getting started
-The easiest way to use this program is torun it at my repl available here: https://repl.it/@cbrien17/WordSuggestionEngine
+The easiest way to use this program is Torun it at my repl available here: https://repl.it/@cbrien17/WordSuggestionEngine
