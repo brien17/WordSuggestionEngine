@@ -1,3 +1,3 @@
 # WordSuggestionEngine
 My project for Intro to Data Engineering
-[![Run on Repl.it](https://repl.it/badge/github/brien17/WordSuggestionEngine)](https://repl.it/github/brien17/WordSuggestionEngine)
+<iframe height="400px" width="100%" src="https://repl.it/@cbrien17/WordSuggestionEngine?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
