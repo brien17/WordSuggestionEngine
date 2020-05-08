@@ -12,4 +12,4 @@ This is a project that I did for my Intro to Data Engineering class. The goal of
 * Print out the list with each word on its own line
 
 ## Getting started
-The easiest way to use this program is Torun it at my repl available here: https://repl.it/@cbrien17/WordSuggestionEngine
+The easiest way to use this program is to run it at my repl available here: https://repl.it/@cbrien17/WordSuggestionEngine
