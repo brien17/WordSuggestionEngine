@@ -1,4 +1,4 @@
-## WordSuggestionEngine
+## Word Suggestion Engine
 This is a project that I did for my Intro to Data Engineering class. The goal of this project was to demonstrate concepts learned in the class by building a simple word recommendation engine. The process of my program is described below.<br>
 
 ### Process
