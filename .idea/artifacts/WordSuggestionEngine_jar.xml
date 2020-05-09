@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WordSuggestionEngine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WordSuggestionEngine_jar</output-path>
+    <root id="archive" name="WordSuggestionEngine.jar">
+      <element id="module-output" name="WordSuggestionEngine" />
+    </root>
+  </artifact>
+</component>
