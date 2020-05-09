@@ -14,8 +14,8 @@ This is a project that I did for my Intro to Data Engineering class. The goal of
 ## Getting started
 The easiest way to use this program is to run it at my repl available here: https://repl.it/@cbrien17/WordSuggestionEngine <br>
 <br>
-Alternatively you can run it using the JRE by folling these steps: <br>
-1. First you will need to have the Java Runtime Environment (JRE) installed.<br> The JRE is available here: https://java.com<br>
+Alternatively, you can run it using the Java Runtime Environment (JRE) by following these steps: <br>
+1. First you will need to have the JRE installed.<br> The JRE is available here: https://java.com<br>
 2. Click the "Clone or download" button on this repository.
 3. Click the "Download ZIP" button.
 4. Extract the downloaded folder.
